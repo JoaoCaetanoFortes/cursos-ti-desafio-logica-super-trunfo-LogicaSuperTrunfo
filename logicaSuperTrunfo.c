@@ -91,7 +91,7 @@ int main() {
     printf("PIB: %.2f\n", pib2);
     printf("PIB por capita: %.2f\n", pibcap2);
     printf("Pontos turisticos: %d\n\n\n\n", turismo2);
-    
+     
     return 0;
 
     //Eu melhorei o ultimo codigo para esse
